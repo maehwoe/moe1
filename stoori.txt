@@ -1,4 +1,6 @@
 eka
 toka
-kolma
-neöjäös
+kolmas
+neljäs
+viides
+kuudes
